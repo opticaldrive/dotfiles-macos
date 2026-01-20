@@ -3,7 +3,7 @@ Here are my dotfiles.
 WIP, ofc.
 
 Setup:
-WM: Aerospace 
+Tiling manager: Aerospace \
 
 
 
